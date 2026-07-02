@@ -30,6 +30,21 @@ The resident survey showed strong support for housing policy action:
 - **65% of respondents supported repurposing unused commercial properties**
 
 These findings suggested that residents were open to practical housing solutions when framed around community needs, responsible planning, and better use of existing land and infrastructure.
+## Data analysis artifact
+
+This repository includes a small public-safe data analysis workflow using aggregate survey findings only.
+
+**Input data:** [`data/survey_findings_aggregate.csv`](data/survey_findings_aggregate.csv)  
+**Analysis script:** [`analysis/create_support_chart.py`](analysis/create_support_chart.py)  
+**Generated chart:** [`visuals/survey_support_summary.png`](visuals/survey_support_summary.png)
+
+![Resident support for housing policy options](visuals/survey_support_summary.png)
+
+To run the chart script locally:
+
+```bash
+pip install -r requirements.txt
+python analysis/create_support_chart.py
 
 ## Policy themes
 
