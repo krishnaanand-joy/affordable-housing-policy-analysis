@@ -10,6 +10,8 @@ The project focused on affordable housing, zoning, land use, master planning, ad
 
 This public version includes only aggregate findings and sanitized summaries. It does not include raw survey responses, private communications, personal information, or internal government documents.
 
+<img src="assets/affordableboothcobbcounty.png" width="500" alt="Krishna at the Cobb County planning booth">
+
 ## Project context
 
 As a Housing & Master Planning Intern for Cobb County District 2, I supported an initiative focused on housing affordability and land-use planning across six Metro Atlanta communities with a combined population exceeding 400,000 residents.
