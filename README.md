@@ -10,9 +10,7 @@ The project focused on affordable housing, zoning, land use, master planning, ad
 
 This public version includes only aggregate findings and sanitized summaries. It does not include raw survey responses, private communications, personal information, or internal government documents.
 
-<p align="center">
-     <img src="assets/affordableboothcobbcounty.png" width="500" alt="Krishna at the Cobb County affordable housing booth">
-   </p>
+<img src="https://raw.githubusercontent.com/krishnaanand-joy/krishnaanand-joy/main/assets/affordableboothcobbcounty.png" width="500" alt="Krishna at the Cobb County affordable housing booth">
 
 ## Project context
 
